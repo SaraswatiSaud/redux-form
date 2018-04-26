@@ -1,0 +1,14 @@
+.button {
+    background-color: #DC143C;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.input {
+    font-size: 16px;
+    padding: 13px 15px 12px 44px;
+    margin-top: -1px;
+}
